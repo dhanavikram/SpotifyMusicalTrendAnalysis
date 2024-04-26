@@ -15,4 +15,4 @@ In this analysis report, we delve into the intricate evolution of audio features
 5. Naveen Vinayaga Murthy
 6. Ziqian Wang
 
-To delve into the analysis, open [`Analysis.ipynb`](https://github.com/dhanavikram/SpotifyMusicalTrendAnalysis/blob/main/Analysis.ipynb)
+To delve into the analysis, click [here](https://dhanavikram.github.io/SpotifyMusicalTrendAnalysis/)
